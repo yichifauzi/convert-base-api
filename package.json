@@ -2,7 +2,7 @@
   "name": "@yichifauzi/convert-base-api",
   "type": "module",
   "productName": "ConvertBaseApi",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "Base API for convert",
   "keywords": [
     "API",
